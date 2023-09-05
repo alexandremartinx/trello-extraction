@@ -12,7 +12,6 @@ class Re_trello:
         self.key = os.getenv("ALE_API_KEY")
         self.token = os.getenv("ALE_TOKEN")
         self.boards = [
-            #id do board de associativismo
             "your_board_id"
         ]
 
