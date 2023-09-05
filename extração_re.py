@@ -13,7 +13,7 @@ class Re_trello:
         self.token = os.getenv("ALE_TOKEN")
         self.boards = [
             #id do board de associativismo
-            "61827f7c12850665da073e35"
+            "your_board_id"
         ]
 
     def get_info(self):
